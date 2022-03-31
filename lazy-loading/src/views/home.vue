@@ -1,0 +1,10 @@
+<script setup></script>
+<template>
+    <div class="home">
+        <h2>Lorem ipsum dolor sit amet.</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem neque itaque aperiam soluta placeat excepturi ex asperiores repellendus delectus impedit, cupiditate vel? Recusandae rem maiores asperiores distinctio iure error vero architecto itaque necessitatibus eligendi. Aperiam soluta ea, aliquam numquam tenetur eum pariatur. Laborum illo architecto aliquid nisi incidunt. Nostrum alias doloremque, explicabo vitae laboriosam id quia voluptatibus expedita exercitationem sit cupiditate vel quidem tenetur deleniti nam repellendus iste fuga recusandae, similique accusantium numquam quos? Vero eos eum dolores deleniti at corporis facilis minima totam perspiciatis, nihil hic error recusandae beatae deserunt aliquid dolore cum. Quia labore a nulla quas ut itaque, aliquam eos est tempora illo nemo, dolores alias et. Maiores eius, a voluptatum, magni quidem impedit corporis aspernatur dicta, odio architecto esse quas molestias amet numquam vel sunt ducimus quod quos animi? Fugit fugiat itaque ipsum quas qui quae inventore, dolorem corrupti, molestias, culpa voluptas totam numquam eius? Blanditiis architecto, quas necessitatibus officiis similique eligendi assumenda commodi excepturi. Dolor placeat facere, ullam error facilis aliquam odio doloremque aut exercitationem, vero commodi earum laborum omnis libero. Explicabo incidunt neque voluptatem! Optio quia culpa labore ut recusandae, ducimus quas sequi in et alias. Minima, repellendus asperiores, natus fugiat voluptatem ducimus veniam fuga beatae nihil quaerat illo neque dolore itaque similique odio deleniti praesentium suscipit ab iure, quasi libero fugit facere quam! Nemo, quam vitae! Aut cupiditate odit dicta totam tempora quod. Dolor quibusdam nulla maiores blanditiis veritatis voluptas fugiat hic minus vel enim placeat, culpa consequuntur quidem! Provident nostrum hic corporis?</p>
+    </div>
+</template>
+
+<style lang="scss">
+</style>
