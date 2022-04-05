@@ -7,17 +7,4 @@ export default defineConfig({
 	resolve: {
 		alias: { "@": path.resolve(__dirname, "src") },
 	},
-	build: {
-		rollupOptions: {
-			output: {
-				manualChunks: {
-					hd: [
-						"./src/views/about.vue",
-						"./src/views/home.vue",
-						"./src/views/article.vue",
-					],
-				},
-			},
-		},
-	},
 })
